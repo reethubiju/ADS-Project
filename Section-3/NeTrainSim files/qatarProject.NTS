@@ -1,0 +1,11 @@
+<Data>
+    <ProjectName>Qatar Rail Network</ProjectName>
+    <NetworkName>Qatar</NetworkName>
+    <AuthorName>Julia Sepulveda</AuthorName>
+    <NodesFileName>$${PWD}/nodes.dat</NodesFileName>
+    <LinksFileName>$${PWD}/links.dat</LinksFileName>
+    <TrainsFileName>$${PWD}/train.dat</TrainsFileName>
+    <simEndTime>0</simEndTime>
+    <simTimestep>1.0</simTimestep>
+    <simPlotTime>100</simPlotTime>
+</Data>
